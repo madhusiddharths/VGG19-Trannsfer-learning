@@ -31,3 +31,4 @@ if st.button('PREDICT'):
     st.title('The predicted output is : Horse')
   else:
     st.title('The predicted output is : Human')
+    
